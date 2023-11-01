@@ -11,8 +11,8 @@ Temel toplama, çıkarma, çarpma ve bölme işlemlerini yapabilir ve sonuçlar�
 Aşağıdaki komutları kullanarak programı kurabilirsiniz:
 
 ```bash
-git clone https://github.com/Memati8383/sms.git
-cd sms
+https://github.com/Memati8383/hesap-makinesi.git
+cd hesap-makinesi
 pip install -r requirements.txt
 python main.py
 ```
