@@ -4,7 +4,7 @@ Temel toplama, çıkarma, çarpma ve bölme işlemlerini yapabilir ve sonuçlar�
 
 ## 📸 Ekran Görüntüsü
 
-![Ekran Görüntüsü](Ekran görüntüsü 2023-09-03 172224.png)
+![Ekran Görüntüsü](Ekran-görüntüsü.png)
 
 ## 🔧 Kurulum
 
